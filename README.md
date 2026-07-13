@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**ZiyuanZhang76/ZiyuanZhang76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Hi, I'm Ziyuan Zhang 👋
 
 I am a PhD student in Behavioural Economics at the University of Glasgow.
